@@ -11,16 +11,20 @@ public class App {
 
 //        Cria a janela do jogo
         JFrame frame = new JFrame("Snake");
+
+//        Define que a janela irá fechar com base no sistema operacional
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 //        Comando para não permitir o redimensionamento da tela
         frame.setResizable(false);
 
 //        Cria o objeto Board
         Board board = new Board(boardHeight, boardWidth);
+//        Adiciona Board ao Frame
         frame.add(board);
 
         frame.pack();
         frame.setLocationRelativeTo(null);
+//        Faz com que a janela seja visível
         frame.setVisible(true);
     }
 }
