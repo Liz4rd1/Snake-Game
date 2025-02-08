@@ -2,10 +2,9 @@
 
 O Snake Game é um jogo em que o objetivo é ir atrás das comidas espalhadas pelo tabuleiro para crescer o máximo possível!
 
-## Instalação
+## Execução
 
-Baixe o jogo via Google Drive
-
+Entre na pasta "Compilado" e execute o "Snake Game.jar".
 
 ## Comandos
 
