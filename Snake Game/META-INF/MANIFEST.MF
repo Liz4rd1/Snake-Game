@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: C:\Users\joaov\IdeaProjects\Snake Game\out\production\Snake 
- Game\App.class
-
